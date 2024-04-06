@@ -1,2 +1,2 @@
-# Fashion-Zone
+# Practice
 Add details of Navbar
